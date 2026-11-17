@@ -1,17 +1,9 @@
 Kanban Board Web
 
-Aplicación web interactiva para la gestión visual de tareas y optimización de flujos de trabajo mediante la metodología Kanban. Desarrollada con un enfoque fuerte en la lógica de programación, el manejo del DOM y la experiencia de usuario.
+An interactive web application for visual task management and workflow optimization, based on the Kanban methodology. Developed with a strong focus on programming logic, DOM manipulation, and user experience.
 
-Tecnologías utilizadas
-Estructura y Estilos: HTML5, CSS3
-Lógica Funcional: JavaScript (Vanilla JS)
-Metodología: Desarrollo asistido e integrado con Inteligencia Artificial
+Technologies Used – Structure and Styling: HTML5, CSS3; Functional Logic: JavaScript (Vanilla JS); Methodology: Development assisted and integrated with Artificial Intelligence.
 
-Características principales
-Creación estructurada de nuevas tareas.
-Lógica de estado para organizar elementos en diferentes columnas (Por hacer, En progreso, Terminado).
-Diseño minimalista enfocado en la usabilidad.
+Key Features: Structured creation of new tasks. State-based logic for organizing items into different columns (To Do, In Progress, Done). Minimalist design focused on usability.
 
-Autor
-Juan Esteban Forero Perdomo
-Estudiante de Ingeniería de Datos e Inteligencia Artificial | Desarrollador Junior
+Author: Juan Esteban Forero Perdomo – Student of Data Engineering and Artificial Intelligence | Junior Developer
